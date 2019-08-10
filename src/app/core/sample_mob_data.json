@@ -1,0 +1,30 @@
+< pre > {
+    "uid": "Qu5Gnbx5QJeLLEiotFJaTnaNTOs2",
+    "displayName": null,
+    "photoURL": null,
+    "email": null,
+    "emailVerified": false,
+    "phoneNumber": "+918792006058",
+    "isAnonymous": false,
+    "providerData": [{
+      "uid": "+918792006058",
+      "displayName": null,
+      "photoURL": null,
+      "email": null,
+      "phoneNumber": "+918792006058",
+      "providerId": "phone"
+    }],
+    "apiKey": "AIzaSyCzecQefVc24KpT8yF3AN5-LrMGf6283UA",
+    "appName": "[DEFAULT]",
+    "authDomain": "matauth-81edb.firebaseapp.com",
+    "stsTokenManager": {
+      "apiKey": "AIzaSyCzecQefVc24KpT8yF3AN5-LrMGf6283UA",
+      "refreshToken": "AEu4IL3n_I2HvNG2RQF9qkdHhUnZRA55027mRm3ee1JrYxvnBazngl4_CQJsDo-jhwV8cfYA_J5jhNIiJGLut6KPmvl2f6mW3GIpJhhFHt54yff2_uTzvLw8O5tSJoPagBV9JqGzLt02kBSMD9DUuFFUg440cN30zupjzgGco0WefIrcSgZgVXvChc5qridi4jmYzK3rgLHz",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ2YjgzOTdjOGU0NmE3M2ZiMDExMDk2YjUyMDE1YTZlNjZkMDMyZWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbWF0YXV0aC04MWVkYiIsImF1ZCI6Im1hdGF1dGgtODFlZGIiLCJhdXRoX3RpbWUiOjE1NjM3OTAzMDQsInVzZXJfaWQiOiJRdTVHbmJ4NVFKZUxMRWlvdEZKYVRuYU5UT3MyIiwic3ViIjoiUXU1R25ieDVRSmVMTEVpb3RGSmFUbmFOVE9zMiIsImlhdCI6MTU2Mzc5MDMwNCwiZXhwIjoxNTYzNzkzOTA0LCJwaG9uZV9udW1iZXIiOiIrOTE4NzkyMDA2MDU4IiwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJwaG9uZSI6WyIrOTE4NzkyMDA2MDU4Il19LCJzaWduX2luX3Byb3ZpZGVyIjoicGhvbmUifX0.H8_bOIDalFgIRg8_9qL4slCkuEBPOlpVpKwibUWs3oXvtpDcLUvaP04w59fS6YSJNMt86A8xAihofVBMCDyz8sN4dTs6ovHjLZgMcKO9HyHQcTMvZXp3ZUZZmsb11i2M-tbTlbkK9d19Oj5cPoRxB-_IMHM0iyw81ajxCzMpOqRAbD0SRqhhuR_lk4v0E3akLd3EvGnOCDV3JhTNjBJiIQwiVyb0ijNXEIpuLW_wdzynHF28OfKO1tNvZbEuAPHGow5dK__hizKQD4WamS4S3GyapJySVqxixSa6zZwhBxJk0wFzg-68o-x6plWvawQ80M43e5NccXyakfciPNXCOw",
+      "expirationTime": 1563793904752
+    },
+    "redirectEventId": null,
+    "lastLoginAt": "1563790304512",
+    "createdAt": "1563790156922"
+  } <
+  /pre>

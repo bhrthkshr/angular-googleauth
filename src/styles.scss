@@ -1,1 +1,67 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/indigo-pink";
+
+body {
+  background: #fff;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+#toolbarmenu {
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+#sideContainer {
+  margin-top: 64px;
+}
+
+#sidenav {
+  background: #fff;
+  color: #fff;
+  border-top: 1px solid #eee;
+  width: 180px;
+}
+
+#itemContainer {
+  padding: 0px;
+}
+
+#itemContainer .mat-list-item-content {
+  padding: 0px;
+  display: block;
+}
+
+#items{
+    margin: 20px 0px;
+}
+
+#items .mat-list-item-content {
+  padding: 0px 0px;
+}
+
+#items button {
+//   background: #3F51B5;
+  border-radius: 0;
+  width: 100%;
+  color: #6e6e6e;
+  padding: 7px;
+  text-align: left;
+}
+
+#items button:hover {
+//   background: #3F51B5;
+  color: #3F51B5;
+}
+
+#sidenavicons {
+  margin-right: 20px;
+}
+
+#mainContent{
+    padding:20px;
+    display: flex;
+    justify-content: flex-start;
+}
